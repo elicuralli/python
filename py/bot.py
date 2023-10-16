@@ -2,7 +2,7 @@ import pyautogui,time
 
 """time.sleep(5)
 var = open("archivo.txt","r")
-for linea in carlos:
+for linea in var:
     pyautogui.typewrite(linea)
     pyautogui.press('enter')
 """
