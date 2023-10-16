@@ -9,5 +9,5 @@ for linea in carlos:
 time.sleep(5)
 
 for i in range(50):
-    pyautogui.typewrite("te quiero")
+    pyautogui.typewrite("hola")
     pyautogui.press('enter')
