@@ -1,7 +1,7 @@
 import pyautogui,time
 
 """time.sleep(5)
-carlos = open("carlos.txt","r")
+var = open("archivo.txt","r")
 for linea in carlos:
     pyautogui.typewrite(linea)
     pyautogui.press('enter')
